@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SwitchScene
+#
+
+projectname: SwitchScene
+vendorid: com.mycompany
+mainmodule: com.mycompany.switchscene
